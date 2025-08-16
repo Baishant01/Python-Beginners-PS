@@ -32,8 +32,8 @@ Python-Beginners-PS repo/
 ```
 ## Appendices
 
-### [Appendix-1: python basics ](https://github.com/Baishant01/Python-Beginners-PS/tree/main/01_basics/)
-### [Appendix-2: python control flow ]()
+### [Appendices-1: python basics ](https://github.com/Baishant01/Python-Beginners-PS/tree/main/01_basics/)
+### [Appendices-2: python control flow ]()
 
 
 ## Demo
